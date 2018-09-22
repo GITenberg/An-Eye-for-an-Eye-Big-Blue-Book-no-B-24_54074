@@ -1,5 +1,8 @@
 _repo: An-Eye-for-an-Eye-Big-Blue-Book-no-B-24_54074
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54074-h/images/cover.jpg
 creator:
   author:
     agent_name: Darrow, Clarence
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4184
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Darrow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54074#An-Eye-for-an-Eye-Big-Blue-Book-no-B-24
 gutenberg_issued: '2017-01-30'
 gutenberg_type: Text
 identifiers:
